@@ -1,5 +1,5 @@
 # Prepare for interview
-## Nội dung:
+## Content:
 - Basic Web Development: HTML/CSS/JS, web flow, web architecture
 - JS advance
 - Frameworks/Libs: React/Next, Redux, Rreact Query...
