@@ -11,8 +11,8 @@
 ### 1. Basic Web Development
 - HTML/CSS/JS
 - Responsive, web accessibility, web standard, web securities
-- How browser work, what happen when we type an url in address bar?
-- DNS, CDN
+- How internet, browser work. What happen when we type an url in address bar?
+- Domain, Hosting, DNS, CDN
 ### 2. JS advance
 - Event Loop, HOF, Curry function, Hoisting, Scope
 - Promise, Async/Await, 
@@ -30,11 +30,10 @@
 #### NextJS
 - SSR, ISR (Incremental Static Regeneration), File-system based router
 ### 4. Tools
-#### Webpack
-- Micro frontend, module federation
-#### YARN
+- Module bundler: Webpack, micro frontend, module federation, Vite, Rollup
+- Linter, Formater: Eslint, Prettier, Husky
+- Task runner: npm script
 - yarn workspace
-#### CICD
 - Gitlab: file yml
 #### Docker
 - How Docker works?
@@ -53,6 +52,12 @@
 ### 7. Test
 - Test runner: Jest, Mocha
 - React testing library, Enzyme
+- Cypress
+- TTD, Unit test, Regression test
+### Others
+- GraphQL
+- Gatsby
+- Strapi
 ## interview test
 ![image](https://user-images.githubusercontent.com/33999836/218974411-0f23dfc5-ba89-4441-b0c6-c452fd0df125.png)
 
